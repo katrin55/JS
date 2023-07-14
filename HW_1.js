@@ -62,5 +62,3 @@ console.log("You don't have access cause your age is" + " " + age_1 + " " + "It'
 } else { console.log("Techniical work");
 }
 
-console.log("======================")
-
